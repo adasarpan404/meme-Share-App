@@ -18,7 +18,7 @@ I build this app for viewing memes and share this with friend.
 
 ## API used for this
 
- - [Meme API](https://meme-api.herokuapp.com/gimme)
+ - [Meme API](https://meme-api.com/gimme)
 
 [![image.png](https://i.postimg.cc/nVqSVBWW/image.png)](https://postimg.cc/NLfkp9B8)
 

@@ -35,7 +35,7 @@ private fun loadMeme(){
     progressBar.visibility = View.VISIBLE
 // Instantiate the RequestQueue.
 
-    val url = "https://meme-api.herokuapp.com/gimme"
+    val url = "https://meme-api.com/gimme"
 
 // Request a string response from the provided URL.
     val jsonRequest = JsonObjectRequest(
